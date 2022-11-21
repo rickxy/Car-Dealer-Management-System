@@ -10,3 +10,4 @@ This Django project for a car dealer website is specifically concerned with hand
 - And finally, run the application: python manage.py runserver
 
 For Admin Account, please create one using superuser!
+![Screenshot from 2022-11-21 16-48-09](https://user-images.githubusercontent.com/36708000/203076010-a3736598-fc80-4a13-9888-c35cff4d108f.png)
